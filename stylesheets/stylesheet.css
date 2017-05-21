@@ -791,7 +791,7 @@ dl dd {
 
 /* Icons */
 
-#header-icon {
+.header-icon {
   position: relative;
   float: right;
 }
