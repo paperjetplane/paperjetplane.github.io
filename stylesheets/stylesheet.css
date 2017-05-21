@@ -789,6 +789,12 @@ dl dd {
   }
 }
 
+/* Icons */
+
+.header-icon {
+  float: right;
+}
+
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
