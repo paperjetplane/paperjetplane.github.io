@@ -789,6 +789,11 @@ dl dd {
   }
 }
 
+/* Icons */
+#plane-icon {
+  width: 64px;
+  height: 64px;
+}
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
