@@ -86,5 +86,5 @@ exclude:
   - README.md
   - CNAME
 =======
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 >>>>>>> 74ff1869e178672f474c70e3e4ed0e3a3f96d0de
